@@ -23,7 +23,7 @@ It uses jQuery and ajax for the UI.
 
 #### Create this folders
 
-  * Create a folder called "uploads" in ./app/webroot, set the proper permissions to be able to upload files, this is done internally if apache has the rights to do it, but if you see an error, just create it manually.
+  * Create a folder called "nodes" in ./app/webroot/uploads, set the proper permissions to be able to upload files, this is done internally if apache has the rights to do it, but if you see an error, just create it manually.
   * Create a folder called "filesuploads" in ./app/tmp, set the proper permissions to be able to upload files, this is done internally if apache has the rights to do it, but if you see an error, just create it manually.
 
 ## How to use
