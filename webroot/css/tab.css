@@ -1,0 +1,58 @@
+/*.fa-input {
+	margin-top: 10px;
+}*/
+
+/**
+ * Files attachments List (PHOTO)
+ */
+#faListPhoto li {
+	margin-bottom: 10px;
+}
+	#faListPhoto li .fa-column1 {
+		float: left;
+		width: 120px;
+	}
+	#faListPhoto li .fa-column2 {
+		float: left;
+		width: 270px;
+	}
+		#faListPhoto li .fa-column2 .fa-description {
+			width: 240px;
+			height: 67px;
+			margin-bottom: 3px;
+		}
+		#faListPhoto li .fa-column2 .fa-div-main-photo input {
+			margin-right: 2px;
+			vertical-align: text-top;
+		}
+		#faListPhoto li .fa-column2 .fa-div-main-photo label {
+			font-size: 1em;
+			display: inline;
+		}
+	#faListPhoto li .fa-column3 {
+		float: left;
+		font-size: 1.4em;
+		padding-top: 30px;
+	}
+		#faListPhoto li .fa-column3 a:hover {
+			text-decoration: none;
+		}
+		#faListPhoto li .fa-column3 .fa-move {
+			cursor: pointer;
+		}
+
+/**
+ * Files attachments List (DOCUMENT)
+ */
+#faListDocument li {
+	margin-bottom: 10px;
+}
+	#faListDocument li .fa-column1 {
+		float: left;
+		width: 394px;
+	}
+	#faListDocument li .fa-column2 {
+		float: left;
+		width: 200px;
+	}
+

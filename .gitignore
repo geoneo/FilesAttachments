@@ -1,0 +1,26 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.temporaryFile
+
+# anything with a comma in the name
+*,*
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+nbproject
+
+.Trash*
+
+# empty files so that empty dirs are tracked
+!empty

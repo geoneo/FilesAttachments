@@ -1,0 +1,12 @@
+{
+	"name": "FilesAttachments",
+	"description": "Attach photos or documents to a node in Croogo",
+	"author": "Ivan Mattoni",
+	"authorEmail": "iwmattoni@gmail.com",
+	"authorUrl": "https://github.com/geoneo",
+	"dependencies": {
+		"plugins": [
+			"extensions"
+		]
+	}
+}
